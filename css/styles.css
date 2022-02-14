@@ -51,6 +51,7 @@ h3 {
 .bottom-container {
   background-color: #66bfbf;
   padding: 70px;
+  padding-bottom: 50px;
 }
 
 hr {
@@ -79,15 +80,14 @@ hr {
   bottom: 300px;
 }
 
-.skills {
-  margin: 100px auto;
-}
+
 
 .skill-row {
   width: 50%;
   margin: 100px auto;
   line-height: 2;
   text-align: left;
+  padding-bottom: 75px;
 }
 
 .coding-image,
@@ -106,7 +106,7 @@ hr {
 }
 
 .contact-me {
-  margin: 50px auto;
+  margin: 100px auto;
 }
 
 .contact-me p {
